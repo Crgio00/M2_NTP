@@ -1,0 +1,101 @@
+Nombre,Edad,Nivel educativo,Carrera,Institución,Departamento,Promedio
+Pedro Sánchez,25,Posgrado,Química,Universidad de los Andes,Caldas,4.84
+María González,34,Maestría,Ingeniería en Sistemas,Universidad Industrial de Santander,Atlántico,3.93
+Luis Torres,27,Doctorado,Medicina,Universidad del Valle,Atlántico,3.74
+Carlos López,37,Posgrado,Arquitectura,Universidad del Valle,Cundinamarca,3.68
+Ana Martínez,36,Doctorado,Biología,Universidad Nacional de Colombia,Boyacá,3.16
+Luis Rodríguez,41,Posgrado,Derecho,Universidad Industrial de Santander,Norte de Santander,4.18
+Sofia Sánchez,40,Licenciatura,Administración,Universidad Nacional de Colombia,Risaralda,4.98
+Juan Sánchez,25,Posgrado,Administración,Universidad de los Andes,Bolívar,4.39
+María Torres,24,Doctorado,Ingeniería en Sistemas,Universidad de los Andes,Cundinamarca,3.58
+Carmen López,39,Posgrado,Biología,Universidad Nacional de Colombia,Atlántico,3.01
+Laura Pérez,35,Doctorado,Arquitectura,Universidad del Valle,Antioquia,4.02
+Laura López,22,Posgrado,Psicología,Universidad Nacional de Colombia,Caldas,3.42
+Laura Martínez,45,Licenciatura,Química,Universidad Industrial de Santander,Santander,3.95
+Carlos Martínez,18,Maestría,Física,Universidad Industrial de Santander,Cundinamarca,4.53
+Ana Pérez,18,Doctorado,Medicina,Universidad de los Andes,Bolívar,3.83
+Carlos Torres,43,Maestría,Derecho,Universidad del Valle,Boyacá,3.82
+Luis Rodríguez,40,Doctorado,Física,Universidad de Antioquia,Norte de Santander,4.77
+Carmen Ramírez,40,Licenciatura,Arquitectura,Universidad de los Andes,Bolívar,4.01
+Sofia Torres,27,Doctorado,Medicina,Universidad Industrial de Santander,Santander,4.8
+María Pérez,42,Licenciatura,Biología,Universidad Nacional de Colombia,Risaralda,3.0
+Carlos López,22,Licenciatura,Psicología,Universidad de los Andes,Valle del Cauca,4.87
+María Fernández,44,Posgrado,Administración,Universidad Nacional de Colombia,Antioquia,4.62
+Carmen López,36,Licenciatura,Derecho,Universidad Industrial de Santander,Norte de Santander,4.34
+Laura García,20,Posgrado,Administración,Universidad de los Andes,Risaralda,4.73
+Sofia Fernández,25,Maestría,Química,Universidad Nacional de Colombia,Caldas,3.54
+Carlos Fernández,23,Licenciatura,Derecho,Universidad de Antioquia,Boyacá,3.48
+Carlos López,27,Posgrado,Administración,Universidad de los Andes,Bolívar,4.71
+Pedro Rodríguez,38,Posgrado,Ingeniería en Sistemas,Universidad de los Andes,Cundinamarca,4.11
+Diego Torres,45,Posgrado,Arquitectura,Universidad de los Andes,Boyacá,3.07
+María Torres,32,Doctorado,Química,Universidad de Antioquia,Risaralda,4.42
+Diego Fernández,37,Licenciatura,Física,Universidad de Antioquia,Bolívar,3.46
+Juan Torres,22,Licenciatura,Psicología,Universidad Nacional de Colombia,Risaralda,3.29
+Carmen Pérez,38,Licenciatura,Economía,Universidad Industrial de Santander,Atlántico,4.53
+Carlos González,22,Doctorado,Química,Universidad del Valle,Risaralda,4.98
+Sofia Torres,45,Posgrado,Arquitectura,Universidad Nacional de Colombia,Bolívar,3.08
+Ana Sánchez,19,Maestría,Administración,Universidad de los Andes,Santander,4.6
+Luis González,42,Posgrado,Ingeniería en Sistemas,Universidad Industrial de Santander,Risaralda,4.06
+Sofia Fernández,22,Licenciatura,Arquitectura,Universidad de los Andes,Valle del Cauca,3.36
+Ana López,45,Licenciatura,Química,Universidad Nacional de Colombia,Santander,4.19
+Carlos Pérez,27,Licenciatura,Economía,Universidad de Antioquia,Cundinamarca,4.99
+María Pérez,32,Maestría,Biología,Universidad Industrial de Santander,Risaralda,4.46
+Carmen Martínez,42,Maestría,Química,Universidad Nacional de Colombia,Bolívar,3.2
+Carmen Fernández,25,Posgrado,Economía,Universidad del Valle,Boyacá,3.3
+Pedro Ramírez,30,Doctorado,Ingeniería en Sistemas,Universidad del Valle,Atlántico,3.1
+Luis Fernández,29,Posgrado,Física,Universidad del Valle,Norte de Santander,4.31
+Pedro Rodríguez,20,Maestría,Ingeniería en Sistemas,Universidad del Valle,Norte de Santander,3.89
+Laura Martínez,35,Doctorado,Derecho,Universidad del Valle,Antioquia,4.91
+Ana García,21,Doctorado,Ingeniería en Sistemas,Universidad de los Andes,Bolívar,3.52
+Luis Torres,26,Posgrado,Economía,Universidad del Valle,Caldas,4.55
+Diego García,32,Maestría,Física,Universidad Nacional de Colombia,Santander,4.83
+Carlos López,21,Posgrado,Química,Universidad Industrial de Santander,Risaralda,3.41
+Luis López,39,Licenciatura,Medicina,Universidad Industrial de Santander,Boyacá,4.01
+Pedro Ramírez,23,Doctorado,Química,Universidad del Valle,Santander,3.23
+Luis García,38,Posgrado,Derecho,Universidad de los Andes,Valle del Cauca,4.02
+Ana Pérez,22,Maestría,Medicina,Universidad Nacional de Colombia,Boyacá,4.77
+María Fernández,24,Maestría,Biología,Universidad de Antioquia,Risaralda,3.44
+Luis Pérez,31,Doctorado,Economía,Universidad de los Andes,Santander,4.74
+Sofia González,35,Posgrado,Arquitectura,Universidad de los Andes,Valle del Cauca,3.98
+Juan García,39,Licenciatura,Administración,Universidad de Antioquia,Atlántico,3.76
+Carmen García,37,Licenciatura,Psicología,Universidad de Antioquia,Bolívar,4.86
+Juan García,44,Posgrado,Derecho,Universidad del Valle,Atlántico,3.86
+Ana Ramírez,36,Posgrado,Economía,Universidad del Valle,Bolívar,3.15
+Ana Martínez,31,Maestría,Arquitectura,Universidad del Valle,Santander,4.5
+Juan Sánchez,37,Licenciatura,Medicina,Universidad de los Andes,Norte de Santander,3.54
+María García,41,Licenciatura,Biología,Universidad de los Andes,Caldas,3.77
+Carmen López,20,Licenciatura,Economía,Universidad Industrial de Santander,Boyacá,3.6
+Carmen Torres,43,Maestría,Arquitectura,Universidad de los Andes,Norte de Santander,3.09
+Diego González,43,Doctorado,Ingeniería en Sistemas,Universidad Nacional de Colombia,Norte de Santander,4.67
+Luis Ramírez,22,Posgrado,Administración,Universidad del Valle,Atlántico,4.4
+Diego Fernández,44,Licenciatura,Economía,Universidad Industrial de Santander,Risaralda,3.56
+Juan Pérez,38,Posgrado,Biología,Universidad de los Andes,Norte de Santander,3.07
+Diego Torres,33,Doctorado,Administración,Universidad del Valle,Atlántico,3.51
+Pedro López,31,Maestría,Economía,Universidad Industrial de Santander,Norte de Santander,4.89
+Pedro Pérez,44,Maestría,Biología,Universidad de los Andes,Antioquia,3.25
+Diego Fernández,22,Doctorado,Medicina,Universidad del Valle,Risaralda,4.33
+Luis Fernández,45,Maestría,Biología,Universidad del Valle,Norte de Santander,3.8
+Carlos Torres,45,Maestría,Psicología,Universidad Industrial de Santander,Santander,4.8
+Ana Sánchez,20,Licenciatura,Psicología,Universidad de Antioquia,Risaralda,4.17
+María Torres,43,Maestría,Ingeniería en Sistemas,Universidad Nacional de Colombia,Santander,3.67
+Juan Pérez,45,Doctorado,Economía,Universidad de los Andes,Santander,3.43
+Luis Fernández,34,Doctorado,Física,Universidad de Antioquia,Norte de Santander,4.78
+Ana Ramírez,22,Doctorado,Ingeniería en Sistemas,Universidad de los Andes,Santander,3.97
+Pedro Torres,20,Posgrado,Derecho,Universidad de Antioquia,Bolívar,3.8
+Sofia García,33,Posgrado,Física,Universidad de Antioquia,Atlántico,4.81
+Carlos Rodríguez,25,Licenciatura,Ingeniería en Sistemas,Universidad Industrial de Santander,Valle del Cauca,4.78
+Carlos García,39,Doctorado,Ingeniería en Sistemas,Universidad de Antioquia,Risaralda,3.26
+Carmen Rodríguez,27,Doctorado,Psicología,Universidad Industrial de Santander,Atlántico,3.06
+Pedro Ramírez,30,Licenciatura,Medicina,Universidad del Valle,Santander,3.23
+Luis Fernández,18,Posgrado,Química,Universidad de los Andes,Santander,3.6
+Carlos Torres,26,Maestría,Química,Universidad de Antioquia,Bolívar,3.78
+Laura Rodríguez,30,Doctorado,Biología,Universidad Industrial de Santander,Risaralda,3.21
+Ana Torres,18,Licenciatura,Biología,Universidad del Valle,Cundinamarca,4.38
+Luis Ramírez,20,Licenciatura,Administración,Universidad de los Andes,Bolívar,4.62
+Sofia Pérez,22,Maestría,Administración,Universidad de Antioquia,Antioquia,3.74
+Juan García,40,Maestría,Derecho,Universidad del Valle,Risaralda,4.61
+María Torres,32,Doctorado,Química,Universidad Industrial de Santander,Antioquia,4.0
+María Fernández,45,Licenciatura,Psicología,Universidad de Antioquia,Risaralda,4.88
+Carlos González,20,Posgrado,Física,Universidad de Antioquia,Santander,3.94
+Sofia González,20,Maestría,Física,Universidad del Valle,Boyacá,3.91
+Luis Ramírez,28,Maestría,Biología,Universidad de los Andes,Valle del Cauca,3.33
